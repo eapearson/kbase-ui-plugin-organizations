@@ -1,23 +1,20 @@
 {
-    "name": "kbase-ui-plugin-organizations",
-    "version": "1.0.0",
-    "description": "## Goals of this MVP",
-    "main": "index.js",
-    "directories": {
-        "doc": "docs"
-    },
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+ssh://git@github.com/eapearson/kbase-ui-plugin-organizations.git"
-    },
-    "author": "",
-    "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/eapearson/kbase-ui-plugin-organizations/issues"
-    },
-    "homepage": "https://github.com/eapearson/kbase-ui-plugin-organizations#readme",
-    "devDependencies": {}
+  "name": "kbase-ui-plugin-organizations",
+  "version": "0.1.0",
+  "description": "A user interface for KBase Organizations",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eapearson/kbase-ui-plugin-organizations"
+  },
+  "author": "",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "homepage": "https://github.com/eapearson/kbase-ui-plugin-organizations#readme",
+  "devDependencies": {}
 }

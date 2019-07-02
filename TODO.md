@@ -1,4 +1,6 @@
-Observations using orgs after a break:
+# TODO
+
+## Observations using orgs after a break:
 
 - when remove user from group, they should receive a notification
 - improve the user selection tool for invitation
